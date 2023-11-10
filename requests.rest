@@ -1,0 +1,20 @@
+# GET http://localhost:3000/books
+
+# ###
+
+# GET http://localhost:3000/books/6546814021d54123b19933f2
+
+# ###
+
+# POST http://localhost:3000/books/new
+# Content-Type: application/json
+
+# ###
+# PATCH http://localhost:3000/books/edit/6546814021d54123b19933f2
+# Content-Type: application/json
+
+
+
+# ###
+
+# DELETE  http://localhost:3000/books/delete/6546814021d54123b19933f2
